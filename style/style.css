@@ -13,7 +13,26 @@ h1 {
 	text-transform: uppercase;
 }
 
+.main-text {
+	background-color: gray;
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-left: 100px;
+	margin-right: 100px;
+	text-decoration: underline dotted yellow;
+}
 
+#isud-jan {
+	position: relative;
+}
+
+.isud-jan {
+	border: 1px solid blue;
+	border-radius: 4px;
+	padding: 5px;
+	width: 150px;
+}
 .navbar {
   overflow: hidden;
   background-color: #333;
